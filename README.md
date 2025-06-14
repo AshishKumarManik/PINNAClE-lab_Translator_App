@@ -1,6 +1,6 @@
 # 🌐 Translator App
 
-This Translator App is built using Python’s Tkinter library and the Deep Translator API. It allows users to input text, select source and target languages, and instantly get translations in over 100 supported languages. Designed with a clean and responsive interface, it's perfect for students, language learners, or anyone who needs a lightweight text translator.
+This Translator App is built using Python’s Tkinter library and the Deep Translator API. It allows users to input text, select source and target languages, and instantly get translations in over 100+ supported languages. Designed with a clean and responsive interface, it's perfect for students, language learners, or anyone who needs a lightweight text translator.
 ---
 
 ## 🖥️ Features
